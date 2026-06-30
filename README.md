@@ -1,5 +1,13 @@
-# DataAnalyticsLab
-This repository contains laboratory exercises focused on basic data analysis using Python
-- Data manipulation and analysis with pandas
-- Numerical computations using NumPy
-- Basic statistical operations and data filtering
+# Data Analysis with Python
+## Description
+
+This project contains data analysis tasks using Python. The focus is on data cleaning, processing, and extracting insights from datasets.
+
+## Technologies
+- Python
+- Pandas
+- NumPy
+## Features
+- Data preprocessing and cleaning
+- Exploratory data analysis
+- Working with structured datasets
